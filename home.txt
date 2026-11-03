@@ -1,1 +1,5 @@
+HEAD
 Welcome to Branch A
+Welcome to Branch B
+branch-b
+Welcome to combined page
